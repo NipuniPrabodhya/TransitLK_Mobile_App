@@ -59,6 +59,8 @@ Main functionality includes:
 - Backend role and ownership validation
 - Responsive Authority Officer web portal
 
+![Authority Officer Dashboard](screenshots/Authority-Officer-Dashboard.png)
+
 ---
 
 ## Technology Stack
@@ -173,7 +175,25 @@ The Lost & Found Community allows passengers to view, create, and interact with 
 
 ![Lost and Found Community](screenshots/Lost-Found-Community.png)
 
-Additional screenshots of the Authority Officer dashboard, incident management, and other implemented features can be added as the repository documentation is updated.
+### Authority Officer Dashboard
+
+The Authority Officer Dashboard provides an overview of transport network and service monitoring information.
+
+![Authority Officer Dashboard](screenshots/Authority-Officer-Dashboard.png)
+
+### Authority Officer Incident Management
+
+Authority Officers can create, view, acknowledge, resolve, edit, and manage operational incidents according to their assigned permissions.
+
+![Authority Officer Incident Management](screenshots/Authority-Officer-Incident-Management.png)
+
+### Authority Officer Web Portal
+
+The responsive Authority Officer web portal provides access to monitoring, incident management, user information, reports, and other operational features.
+
+![Authority Officer Web Portal](screenshots/Authority-Officer-Web-Portal.png)
+
+---
 
 ---
 
