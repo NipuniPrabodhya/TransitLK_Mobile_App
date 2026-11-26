@@ -219,4 +219,4 @@ The original README created during the university group project has been preserv
 
 Original collaborative repository:
 
-`https://github.com/akilatheshan23-lang/TransitLK_HCI_IT3060`
+[TransitLK_HCI_IT3060](https://github.com/akilatheshan23-lang/TransitLK_HCI_IT3060)
