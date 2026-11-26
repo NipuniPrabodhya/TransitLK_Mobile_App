@@ -41,6 +41,8 @@ Main functionality includes:
 - User ownership validation
 - REST API integration
 - MongoDB persistence
+  
+![Lost and Found Community](screenshots/Lost-Found-Community.png)
 
 ### Authority Officer Monitoring
 
@@ -163,13 +165,13 @@ The project was validated using:
 
 ---
 
-## Screenshot
+## Screenshots
 
 ### Lost & Found Community
 
 The Lost & Found Community allows passengers to view, create, and interact with lost or found item posts.
 
-![Lost and Found Community](docs/screenshots/lost-found-community.png)
+![Lost and Found Community](screenshots/Lost-Found-Community.png)
 
 Additional screenshots of the Authority Officer dashboard, incident management, and other implemented features can be added as the repository documentation is updated.
 
